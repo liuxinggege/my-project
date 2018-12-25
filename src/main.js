@@ -3,7 +3,7 @@ import router from './router';
 
 // console.log(process.env.NODE_ENV)//可以获取环境    npm run dev 会设置为:"development"就是node运行的环境  npm run build 会设置为:"production"就是生产环境
 // console.log(Vue.config)
-
+console.log("hello world")
 //引入vuex store
 import store from './vuex';
 
